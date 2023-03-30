@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcobonni;
 - 👀 I’m interested in Full stack Web Developer;
-- 🌱 I’m currently learning JavaScript and Unity;
+- 🌱 I’m currently learning TypeScript;
 - 📓 I'm currently studying @ DevelHope;
 - 🧑‍🏫 Looking for a mentor;
 - 📫 you can reach me at marco.bonni19@gmail.com;
