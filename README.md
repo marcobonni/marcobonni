@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @marcobonni;
-- 👀 I’m interested in Full stack Web Developer;
-- 🌱 I’m currently learning TypeScript;
-- 📓 I'm currently studying @ DevelHope;
-- 🧑‍🏫 Looking for a mentor;
-- 📫 you can reach me at marco.bonni19@gmail.com;
+- Currently Full stack Developer @Accenture Italia
 
 <!---
 marcobonni/marcobonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
